@@ -1,6 +1,6 @@
 # Criar uma calculadora com módulos separados
 
-## Veja a versão atual -npm  -v
+## Ver a versão atual -npm  -v
 versão - 8.3.1
 
 ## Pegar inputs do sistema
@@ -14,7 +14,7 @@ npm install express --save
 
 Não deu certo, o node alega que os comandos não pegam mais
 
-dividi as 4 operações básicas da matemática em módulos diferentes, fiz com o comando modeule,export mas não deu certo
+dividi as 4 operações básicas da matemática em módulos diferentes, fiz com o comando module.export mas não deu certo
 
 adicionei o type:module no package json e dei npm init, não deu certo
 
